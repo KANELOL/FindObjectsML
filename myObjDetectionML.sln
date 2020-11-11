@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myObjDetectionML", "myObjDetectionML\myObjDetectionML.csproj", "{D3BA8AE9-FA3C-4FDB-B3C7-2C1BCAC981BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{DC2F8C80-A749-485C-9CE1-690D2AF5D63E}"
+	ProjectSection(SolutionItems) = preProject
+		ImageNetData.cs = ImageNetData.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BA8AE9-FA3C-4FDB-B3C7-2C1BCAC981BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BA8AE9-FA3C-4FDB-B3C7-2C1BCAC981BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BA8AE9-FA3C-4FDB-B3C7-2C1BCAC981BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BA8AE9-FA3C-4FDB-B3C7-2C1BCAC981BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7A2518-C69F-4265-B421-3AA3D7F94FD1}
+	EndGlobalSection
+EndGlobal
